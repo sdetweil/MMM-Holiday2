@@ -39,7 +39,7 @@ Before we get started on the config let me point out some options:
                 header: "Upcoming Holidays",
                 country: "gr",  //country code
                 lang: "el",  //language code
-                days: '90'  //How many days in advance to show holidays for
+                days: '90',  //How many days in advance to show holidays for
                 img: "person.png"  //what is the name of your custom icon file, needs to be located in icons dir? 
             }
         },
